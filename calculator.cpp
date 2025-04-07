@@ -26,10 +26,6 @@ cout<<"Addition Result:  "<<addition(num1,num2)<<endl;
     return 0;
 }
 
-int multiplication(int a, int b) {
-    return a*b;
-}
-
 int substruct(int a, int b) {
     return a-b;
 }
@@ -38,6 +34,3 @@ int division(int a, int b) {
     return a/b;
 }
 
-int addition(int a, int b) {
-    return a+b;
-}
