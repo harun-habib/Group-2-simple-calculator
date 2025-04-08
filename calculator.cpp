@@ -1,4 +1,5 @@
 #include<iostream>
+#include<cmath>
 using namespace std;
 
 int multiplication(int a, int b);
@@ -22,10 +23,14 @@ cout<<"The Results "<<endl;
 
 cout<<"Multiplication Result: "<<multiplication(num1,num2)<<endl;
 cout<<"Substruct Result: "<<substruct(num1,num2)<<endl;
-cout<<"Division Result:  "<<division(num1,num2)<<endl;
-cout<<"Addition Result: "<<addition(num1,num2)<<endl;
-cout<<"Squareroot Result:  "<<squareroot(num1,num2)<<endl;
 
+
+cout<<"Division Result:  "<<division(num1,num2)<<endl;
+
+cout<<"Addition Result: "<<addition(num1,num2)<<endl;
+
+
+cout<<"Squareroot Result:  "<<squareroot(num1,num2)<<endl;
 
     return 0;
 }
