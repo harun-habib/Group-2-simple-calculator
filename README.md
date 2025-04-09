@@ -1,5 +1,4 @@
 # Group-2-simple-calculator
-# calculator
 ## Group Members
 1. Group Leader: Manages repository and reviews pull 
 requests.
