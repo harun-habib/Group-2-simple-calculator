@@ -9,9 +9,6 @@ int addition(int a, int b);
 int squareroot(int a, int b);
 int reminder(int a, int b);
 
-
-
-
 int main() {
     int num1, num2; 
     char operation; 
@@ -53,7 +50,6 @@ default:
     cout << "Invalid operation!" << endl; 
 }
 
-
     return 0;
 }
 
@@ -66,8 +62,8 @@ int division(int a, int b) {
 }
 int multiply(int a, int b){
     
-    return a * b; }
-    
+    return a * b;
+} 
     
     
     int addition(int a, int b) {
