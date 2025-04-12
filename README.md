@@ -1,4 +1,4 @@
-# Simple-Calculator- Group 2
+# Simple-Calculator-Group 2
 ## Group Members
 1. Group Leader: Manages repository and reviews pull 
 requests and implemented substraction 
